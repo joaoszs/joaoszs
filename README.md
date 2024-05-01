@@ -4,7 +4,7 @@
   ![joaoszs GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoszs&show_icons=true&theme=dark)  
    
 ## networks
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-lúcio-reis-da-costa-3a087b2b1
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-l%C3%BAcio-reis-da-costa-3a087b2b1/
 )
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaolucio926@gmail.com)
 
