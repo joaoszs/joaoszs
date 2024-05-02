@@ -1,7 +1,11 @@
 ### Ola, Seja Bem-Vindo(a) 👋 !
 
 ## Stats
-  ![joaoszs GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoszs&show_icons=true&theme=dark)  
+  
+  <div style="display: inline_block">   
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=joaoszs&show_icons=true&theme=dark"></img> 
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoszs&theme=blue-green"></img>
+</div>
    
 ## networks
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-l%C3%BAcio-reis-da-costa-3a087b2b1/
@@ -24,6 +28,4 @@
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 <br/>
-<div style="display: inline_block">  
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoszs&theme=blue-green"></img> 
-</div>
+
