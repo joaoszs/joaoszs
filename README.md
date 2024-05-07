@@ -2,9 +2,8 @@
 
 ## Stats
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoszs&show_icons=true&theme=merko)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoszs&langs_count=8)
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoszs&langs_count=8)
 ## networks
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-l%C3%BAcio-reis-da-costa-3a087b2b1/
 )
