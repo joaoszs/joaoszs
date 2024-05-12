@@ -1,9 +1,11 @@
 ### Ola, Seja Bem-Vindo(a) 👋 !
 
 ## Stats
-  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoszs)](https://github.com/joaoszs/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoszs&layout=compact)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoszs&langs_count=8)
+
+
 ## networks
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-l%C3%BAcio-reis-da-costa-3a087b2b1/
 )
