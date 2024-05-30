@@ -1,4 +1,4 @@
-### Seja Bem-Vindo(a) ao meu GitHub 👋 !
+### Ola, me chamo Joao 👋 !
 
 ## Stats
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoszs)](https://github.com/joaoszs/github-readme-stats)
