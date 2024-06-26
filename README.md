@@ -1,5 +1,3 @@
-### Ola, me chamo Joao 👋 !
-
 ## Stats
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoszs)](https://github.com/joaoszs/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoszs&layout=compact)
