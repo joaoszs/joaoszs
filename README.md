@@ -1,11 +1,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoszs&layout=compact)
 
-
+<hr/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-l%C3%BAcio-reis-da-costa-3a087b2b1/
 )
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaolucio926@gmail.com)
 
+<hr/>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
