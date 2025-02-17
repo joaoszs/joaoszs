@@ -1,5 +1,3 @@
-<h1 align="center">Olá, me chamo João</h1>
-
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoszs&layout=compact&theme=dark)
 
 <h3 align="left">Redes</h3>
