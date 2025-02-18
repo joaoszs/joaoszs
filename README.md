@@ -1,3 +1,5 @@
+<h3 align="left">Status</h3>
+
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoszs&layout=compact&theme=dark)
 
 <h3 align="left">Redes</h3>
