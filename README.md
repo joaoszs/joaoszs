@@ -22,13 +22,13 @@
 
 ### `> whoami`
 
-Olá! Sou **João Lúcio**, profissional de tecnologia com atuação em **análise técnica e sustentação de sistemas corporativos na área da saúde**.
+Olá! Sou **João Lúcio**, profissional de tecnologia com atuação em **análise técnica, sustentação de sistemas e desenvolvimento backend**.
 
 No meu dia a dia, investigo comportamentos de aplicações **Java**, analiso consultas e rotinas em **Oracle Database / SQL / PL/SQL** e acompanho integrações entre sistemas.
 
-Gosto de entender o problema de ponta a ponta — do código e dos logs até o banco de dados — para identificar sua causa raiz.
+Gosto de entender o problema de ponta a ponta, do código e dos logs até o banco de dados, para identificar sua causa raiz.
 
-Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento backend com Java e Spring Boot**, além de contribuir com projetos **open source**.
+Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento backend com Java e Spring Boot**, além de contribuir com projetos open source.
 
 Meu objetivo é evoluir como engenheiro de software, construindo aplicações confiáveis, escaláveis e bem estruturadas.
 
@@ -46,16 +46,16 @@ Meu objetivo é evoluir como engenheiro de software, construindo aplicações co
 
 **No dia a dia:**
 
-`Java` · `JSP` · `JavaScript` · `Oracle Database` · `SQL` · `PL/SQL` · `Linux` · `Git` · `SOAP / XML` · `Eclipse`
+`Java` · `JSP` · `JavaScript` · `Oracle Database` · `SQL` · `PL/SQL` · `Linux` · `Git` · `SOAP / XML` · `Eclipse` · `Spring Boot` · `REST APIs/SOAP` 
 
 **Em evolução:**
 
-`Spring Boot` · `REST APIs` · `Automated Testing` · `Backend Architecture` · `Clean Code` · `SOLID`
+`Automated Testing` · `Backend Architecture` · `Clean Code` · `SOLID`
 
 ### `> what-i-do`
 
 - **Investigação técnica:** análise de código, depuração, rastreamento de fluxos, leitura de logs e identificação de causa raiz.
-- **Banco de dados:** consultas SQL, análise de dados e estudos de PL/SQL com Oracle.
+- **Banco de dados:** consultas avançadas SQL, análise de dados e estudos de PL/SQL com Oracle.
 - **Integração de sistemas:** análise de serviços SOAP, mensagens XML e comunicação entre aplicações.
 - **Engenharia de software:** projetos práticos, boas práticas e contribuição para a comunidade open source.
 
