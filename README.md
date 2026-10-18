@@ -54,10 +54,10 @@ Meu objetivo é evoluir como engenheiro de software, construindo aplicações co
 
 ### `> what-i-do`
 
-- **Investigação técnica:** análise de código, depuração, rastreamento de fluxos, leitura de logs e identificação de causa raiz.
-- **Banco de dados:** consultas avançadas SQL, análise de dados e estudos de PL/SQL com Oracle.
-- **Integração de sistemas:** análise de serviços SOAP, mensagens XML e comunicação entre aplicações.
-- **Engenharia de software:** projetos práticos, boas práticas e contribuição para a comunidade open source.
+- **Investigação e análise técnica:** depuração de aplicações, análise de código-fonte, rastreamento de fluxos de execução, interpretação de logs e identificação de causas raiz para diagnóstico e resolução de problemas.
+- **Banco de dados:** elaboração e otimização de consultas SQL, análise de dados e PL/SQL com Oracle Database, incluindo procedures, functions, triggers e packages.
+- **Integração de sistemas:** análise, manutenção e diagnóstico de integrações entre aplicações, utilizando serviços SOAP, APIs REST, mensagens XML e protocolos de comunicação.
+- **Desenvolvimento e engenharia de software:** manutenção e evolução de aplicações Java, implementação de correções e melhorias, aplicação de boas práticas de programação, desenvolvimento de projetos práticos e contribuições para projetos open source.
 
 ### `> featured-project`
 
@@ -71,7 +71,7 @@ Repositório que utilizo para aprofundar meus conhecimentos em desenvolvimento b
 [01] Java & Object-Oriented Programming
 [02] Spring Boot & REST APIs
 [03] Oracle SQL / PL/SQL
-[04] Linux & Infrastructure Fundamentals
+[04] Linux & Infrastructure
 [05] Software Architecture & Automated Testing
 ```
 
