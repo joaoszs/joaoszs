@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" alt="João Lúcio — Backend, Integrações e Open Source" width="100%" />
+<img src="./assets/terminal_cursor_blink.gif" alt="João Lúcio — Backend, Integrações e Open Source" width="100%" />
 
 <br />
 
