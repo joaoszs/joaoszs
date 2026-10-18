@@ -56,12 +56,7 @@ Além da rotina profissional, gosto de explorar o ecossistema Linux, aprender no
 - **Banco de dados:** elaboração e otimização de consultas SQL, análise de dados e PL/SQL com Oracle Database, incluindo procedures, functions, triggers e packages.
 - **Integração de sistemas:** análise, manutenção e diagnóstico de integrações entre aplicações, utilizando serviços SOAP, APIs REST, mensagens XML e protocolos de comunicação.
 - **Desenvolvimento e engenharia de software:** manutenção e evolução de aplicações Java, implementação de correções e melhorias, aplicação de boas práticas de programação, desenvolvimento de projetos práticos e contribuições para projetos open source.
-
-### `> featured-project`
-
-**[Backend Engineering Journey — Java & Spring Boot](https://github.com/joaoszs/backend-engineering-journey-java-springboot)**
-
-Repositório que utilizo para aprofundar meus conhecimentos em desenvolvimento backend, praticar Java, revisar código e contribuir com um projeto open source.
+  
 
 ### `> currently-learning`
 
