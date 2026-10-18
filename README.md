@@ -79,8 +79,6 @@ Repositório que utilizo para aprofundar meus conhecimentos em desenvolvimento b
 
 <samp>learn • build • debug • improve</samp>
 
-<br /><br />
-
 <a href="https://github.com/joaoszs">github.com/joaoszs</a>
 
 </div>
