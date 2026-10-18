@@ -24,13 +24,11 @@
 
 Olá! Sou **João Lúcio**, profissional de tecnologia com atuação em **análise técnica, sustentação de sistemas e desenvolvimento backend**.
 
-No meu dia a dia, investigo comportamentos de aplicações **Java**, analiso consultas e rotinas em **Oracle Database / SQL / PL/SQL** e acompanho integrações entre sistemas.
-
 Gosto de entender o problema de ponta a ponta, do código e dos logs até o banco de dados, para identificar sua causa raiz.
 
-Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento backend com Java e Spring Boot**, além de contribuir com projetos open source.
-
 Meu objetivo é evoluir como engenheiro de software, construindo aplicações confiáveis, escaláveis e bem estruturadas.
+
+Além da rotina profissional, gosto de explorar o ecossistema Linux, aprender novas ferramentas de desenvolvimento e entender o funcionamento dos sistemas além da camada de código. Para mim, tecnologia é tanto profissão quanto curiosidade.
 
 ### `> tech --visual`
 
