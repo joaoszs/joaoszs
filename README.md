@@ -42,7 +42,7 @@ Além da rotina profissional, gosto de explorar o ecossistema Linux, aprender no
 
 ### `> stack --current`
 
-**No dia a dia:**
+**dia a dia:**
 
 `Java` · `JSP` · `JavaScript` · `Oracle Database` · `SQL` · `PL/SQL` · `Linux` · `Git` · `SOAP / XML` · `Eclipse` · `Spring Boot` · `REST APIs/SOAP` 
 
