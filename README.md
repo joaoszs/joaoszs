@@ -64,7 +64,7 @@ Além da rotina profissional, gosto de explorar o ecossistema Linux, aprender no
 [01] Java
 [02] Spring Boot & REST APIs
 [03] Oracle SQL & PL/SQL
-[04] Linux & Infrastructure
+[04] Linux & Infraestrutura
 [05] Cybersec
 ```
 
