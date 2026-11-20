@@ -61,11 +61,11 @@ Além da rotina profissional, gosto de explorar o ecossistema Linux, aprender no
 ### `> currently-learning`
 
 ```text
-[01] Java & Object-Oriented Programming
+[01] Java
 [02] Spring Boot & REST APIs
-[03] Oracle SQL / PL/SQL
+[03] Oracle SQL & PL/SQL
 [04] Linux & Infrastructure
-[05] Software Architecture & Automated Testing
+[05] Cybersec
 ```
 
 ---
