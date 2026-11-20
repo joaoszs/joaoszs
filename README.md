@@ -48,7 +48,7 @@ Além da rotina profissional, gosto de explorar o ecossistema Linux, aprender no
 
 **Em evolução:**
 
-`Automated Testing` · `Backend Architecture` · `Clean Code` · `SOLID`
+`Testes automatizados` · `Arquitetura Backend` · `Cybersec` · `Clean code` `SOLID`
 
 ### `> what-i-do`
 
