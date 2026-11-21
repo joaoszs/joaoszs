@@ -22,7 +22,7 @@
 
 ### `> whoami`
 
-Olá! Sou **João Lúcio**, profissional de tecnologia com atuação em **análise técnica, sustentação de sistemas e desenvolvimento backend**.
+Olá! Sou **João Lúcio**, profissional de tecnologia com atuação em **sustentação de sistemas e desenvolvimento backend**.
 
 Gosto de entender o problema de ponta a ponta, do código e dos logs até o banco de dados, para identificar sua causa raiz.
 
